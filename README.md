@@ -1,5 +1,5 @@
-# EduardVergesFranch-P1_SI_U151202
-#Practice 1 Interactive Systems
+## EduardVergesFranch-P1_SI_U151202
+# Practice 1 Interactive Systems
 
 # Objective
 The objective of this lab was to follow a tutorial proposed into the official website of Unity web of how to create a simple game to get in touch with Unity basic tools. Also, we had to add some personal features.
